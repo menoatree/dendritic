@@ -1,8 +1,36 @@
-![logo](./logo.jpg)
+<a id="readme-top"></a>
+<div align="center">
 
-# The Dendritic Pattern
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-A [Nix](https://nix.dev) [flake-parts](https://flake.parts) usage pattern in which _every_ Nix file is a flake-parts module
+</div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/mightyiam/dendritic">
+    <img src="logo.jpg" alt="Logo" width="400" height="400">
+  </a>
+
+  <h3 align="center">The Dendritic Pattern</h3>
+
+  <p align="center">
+    A <a href="https://nix.dev">Nix</a> <a href="https://flake.parts">flake-parts</a> usage pattern in which <i>every</i> Nix file is a flake-parts module
+    <br />
+    <a href="https://github.com/mightyiam/dendritic"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/mightyiam/dendritic">View Example</a>
+    &middot;
+    <a href="https://github.com/mightyiam/dendritic/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    &middot;
+    <a href="https://github.com/mightyiam/dendritic/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
 
 ## Testimonials
 
@@ -77,3 +105,14 @@ In the dendritic pattern
 every file is a flake-parts module and can therefore add values to the flake-parts `config`.
 In turn, every file can also read from the flake-parts `config`.
 This makes the sharing of values between files seem trivial in comparison.
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/mightyiam/dendritic.svg?style=for-the-badge
+[contributors-url]: https://github.com/mightyiam/dendritic/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mightyiam/dendritic.svg?style=for-the-badge
+[forks-url]: https://github.com/mightyiam/dendritic/network/members
+[stars-shield]: https://img.shields.io/github/stars/mightyiam/dendritic.svg?style=for-the-badge
+[stars-url]: https://github.com/mightyiam/dendritic/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mightyiam/dendritic.svg?style=for-the-badge
+[issues-url]: https://github.com/mightyiam/dendritic/issues
+[license-shield]: https://img.shields.io/github/license/mightyiam/dendritic.svg?style=for-the-badge
+[license-url]: https://github.com/mightyiam/dendritic/blob/master/LICENSE.txt
