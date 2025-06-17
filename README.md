@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mightyiam/dendritic">
-    <img src="logo.jpg" alt="Logo" width="400" height="400">
+    <img src="logo.jpg" alt="Logo" width="50%" height="50%">
   </a>
 
   <h3 align="center">The Dendritic Pattern</h3>
@@ -24,11 +24,11 @@
     <a href="https://github.com/mightyiam/dendritic"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mightyiam/dendritic">View Example</a>
+    <a href="https://github.com/mightyiam/dendritic#usage-in-the-wild">View Examples</a>
     &middot;
-    <a href="https://github.com/mightyiam/dendritic/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/mightyiam/dendritic/discussions/new/choose">Create Discussion</a>
     &middot;
-    <a href="https://github.com/mightyiam/dendritic/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/mightyiam/dendritic/issues/new/choose">New Issue</a>
   </p>
 </div>
 
